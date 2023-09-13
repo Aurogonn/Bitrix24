@@ -1,0 +1,14 @@
+<?
+$PERM["system_target.php"]["57"]="X";
+$PERM["kksg.php"]["49"]="W";
+$PERM["clients.php"]["49"]="W";
+$PERM["tender.php"]["49"]="W";
+$PERM["budget.php"]["49"]="W";
+$PERM["appeal.php"]["49"]="W";
+$PERM["system_aim.php"]["49"]="W";
+$PERM["control.php"]["49"]="W";
+$PERM["grade.php"]["49"]="W";
+$PERM["index2.php"]["49"]="W";
+$PERM["index.php"]["49"]="W";
+$PERM["ksg.php"]["49"]="W";
+?>
