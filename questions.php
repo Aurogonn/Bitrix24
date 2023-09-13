@@ -238,7 +238,7 @@ $attachs = [];
 $mail = new PHPMailer(true);
 
 try {
-	$mail->SMTPDebug = 0;
+	$mail->SMTPDebug = 2;
 	$mail->ErrorInfo;
 	$mail->isSMTP();
 	$mail->CharSet = 'UTF-8';
